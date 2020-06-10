@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoMVC", "CursoMVC\CursoMVC.csproj", "{5C963DAF-9079-436A-A239-5966C84DBC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{441FC8D7-4B62-42EE-ABF1-BF5BC54E0BBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTest", "CursoTest\CursoTest.csproj", "{26D0FA4D-3769-49F8-9CC3-6ECA40F94B60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C963DAF-9079-436A-A239-5966C84DBC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C963DAF-9079-436A-A239-5966C84DBC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C963DAF-9079-436A-A239-5966C84DBC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C963DAF-9079-436A-A239-5966C84DBC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441FC8D7-4B62-42EE-ABF1-BF5BC54E0BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441FC8D7-4B62-42EE-ABF1-BF5BC54E0BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441FC8D7-4B62-42EE-ABF1-BF5BC54E0BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441FC8D7-4B62-42EE-ABF1-BF5BC54E0BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D0FA4D-3769-49F8-9CC3-6ECA40F94B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D0FA4D-3769-49F8-9CC3-6ECA40F94B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D0FA4D-3769-49F8-9CC3-6ECA40F94B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D0FA4D-3769-49F8-9CC3-6ECA40F94B60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA7A9496-5387-4A60-83E0-5F30A18CA773}
+	EndGlobalSection
+EndGlobal

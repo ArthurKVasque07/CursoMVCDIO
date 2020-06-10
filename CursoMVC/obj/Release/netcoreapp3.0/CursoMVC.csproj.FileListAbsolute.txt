@@ -1,0 +1,6 @@
+C:\Users\arthu\source\repos\CursoMVC\CursoMVC\obj\Release\netcoreapp3.0\CursoMVC.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\CursoMVC\CursoMVC\obj\Release\netcoreapp3.0\CursoMVC.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\CursoMVC\CursoMVC\obj\Release\netcoreapp3.0\CursoMVC.AssemblyInfo.cs
+C:\Users\arthu\source\repos\CursoMVC\CursoMVC\obj\Release\netcoreapp3.0\CursoMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arthu\source\repos\CursoMVC\CursoMVC\obj\Release\netcoreapp3.0\CursoMVC.RazorAssemblyInfo.cache
+C:\Users\arthu\source\repos\CursoMVC\CursoMVC\obj\Release\netcoreapp3.0\CursoMVC.RazorAssemblyInfo.cs

@@ -1,0 +1,4 @@
+C:\Users\arthu\source\repos\CursoMVC\CursoAPI\obj\Release\netcoreapp3.0\CursoAPI.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\CursoMVC\CursoAPI\obj\Release\netcoreapp3.0\CursoAPI.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\CursoMVC\CursoAPI\obj\Release\netcoreapp3.0\CursoAPI.AssemblyInfo.cs
+C:\Users\arthu\source\repos\CursoMVC\CursoAPI\obj\Release\netcoreapp3.0\CursoAPI.MvcApplicationPartsAssemblyInfo.cache
